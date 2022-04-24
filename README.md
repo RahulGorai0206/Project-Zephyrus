@@ -14,7 +14,7 @@ Privacy: Project-Zephyrus(ProtonKnockOFF) helps keep your Data Private with Came
 
 ---------------------------------------------------------------------------------
 
-### Maintained for REDMI NOTE 10 aka mojito
+### Maintained for REDMI NOTE 8 aka ginkgo
 
 [Rahul Gorai](https://github.com/RahulGorai0206)
 
