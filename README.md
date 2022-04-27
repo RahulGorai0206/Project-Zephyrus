@@ -20,7 +20,7 @@ Privacy: Project-Zephyrus(ProtonKnockOFF) helps keep your Data Private with Came
 
 ---------------------------------------------------------------------------------
 
-### Total Downloads Count
+### Downloads Count
 
 *TOTAL DOWNLOADS*
 
