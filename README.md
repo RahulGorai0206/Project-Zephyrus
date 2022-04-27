@@ -22,7 +22,7 @@ Privacy: Project-Zephyrus(ProtonKnockOFF) helps keep your Data Private with Came
 
 ### Total Downloads Count
 
-*TOTAL*
+*TOTAL DOWNLOADS*
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/RahulGorai0206/Project-Zephyrus/total.svg)](https://github.com/RahulGorai0206/Project-Zephyrus/releases)
 
